@@ -1,0 +1,18 @@
+
+	
+CLG:
+DRAW:
+ENVEL:
+GCOL:
+MODE:
+MOVE:
+PLOT:
+SOUND:
+ADVAL:
+POINT:
+GETIMS:
+PUTIMS:
+  XOR     A
+  CALL    EXTERR
+  .ASCIZ   "Sorry"
+  RET
